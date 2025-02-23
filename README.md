@@ -1,17 +1,17 @@
 # Csharp-.NET_Framework-project
 
-## Tehnologii utilizate:
-- **Limbaj de programare:** C#
-- **Platforma de dezvoltare:** .NET Framework
+## Technologies Used:
+- **Programming Language:** C#
+- **Development Platform:** .NET Framework
 - **GUI:** Windows Forms
 
-## Tema Proiectului:
-- aplicatia vizeaza implementarea unui Bancomat ce permite adaugarea , stergere si modificarea clientilor ce-l folosesc.Clientii au posibilitatea sa adauge si sa retraga numerar din conturile personale.
-- aplicatia implementeaza 3 interfete grafice de utilizator reprezentate de 3 formulare Windows Forms.
-- aplicatia implementeaza conceptele de Serializare si Deserializare pentru salvarea clientilor local.
-- aplicatia ofera posibilitatea vizualizarii grafice a distributiei soldurilor din Bancomat prin grafice de Piechart si Barchart.
+## Project Theme:
+- The application aims to implement an ATM that allows adding, deleting, and modifying customers who use it. Customers have the ability to deposit and withdraw cash from their personal accounts.
+- The application implements three graphical user interfaces represented by three Windows Forms.
+- The application incorporates the concepts of Serialization and Deserialization for saving customers locally.
+- The application provides the possibility to visualize the distribution of ATM balances graphically through Pie Charts and Bar Charts.
 
-### Clase implementate: 
-- Banca
-- Aparat
-- Clienti
+### Implemented Classes:
+- Bank
+- ATM
+- Customers
