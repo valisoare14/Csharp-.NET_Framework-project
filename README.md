@@ -1,4 +1,4 @@
-# Csharp-.NET_Framework-project
+# ATM C#
 
 ## Technologies Used:
 - **Programming Language:** C#
